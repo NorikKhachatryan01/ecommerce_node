@@ -1,0 +1,16 @@
+{
+  "name": "user_management_service",
+  "version": "1.0.0",
+  "description": "System Design Assignment responsible for user management",
+  "main": "user-management-service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Norik Khachatryan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4"
+  }
+}
